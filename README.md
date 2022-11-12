@@ -27,7 +27,7 @@
    - Education for lesson learned
 #### 4. [Cyber Excercise](https://www.vic.gov.au/sites/default/files/2019-08/Vic-Gov-Cyber-Exercise-guide.pdf)
    - Create Red Team and Blue Team Scenario for Cyber Exercise
-   - Create an artefact (Red Team) for Cyber Exercise
+   - Create an artefact for Cyber Exercise
    - Create system monitoring for Cyber Exercise players
    
 ---
