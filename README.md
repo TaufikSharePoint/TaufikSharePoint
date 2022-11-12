@@ -2,7 +2,7 @@
 ## About me:
 - 🔭 I’m currently interesting with Programming, Cryptography, Cybersecurity, and Arduino
 - 🌱 I’m currently learning Cybersecurity
-- 👯 I’m looking to collaborate as Blue Team, Red Team or, Purple Team 
+- 👯 I’m looking to collaborate as Blue Team, Red Team, Purple Team, or Training and Educational Purpose 
 - 🤔 I’m looking for suggest for Cyber Exercise and 
 - 💬 Ask me about anything
 - 📫 How to reach me: taufikdevsec@protonmail.com
