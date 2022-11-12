@@ -14,7 +14,7 @@
 
 ## Experience:
 #### 1. [Securing Drone Authentication](https://docplayer.info/113576930-Implementasi-algoritma-present-sebagai-pengamanan-data-autentikasi-rfid-pada-uav-berbasis-arduino.html)
-   - Implementating Modified Authentication Protocol for UAV/Drone using Arduino
+   - Implentation and Analysis Modified Authentication Protocol for UAV/Drone using Arduino
    - Implentation with Arduino and nRF24l01
    - Quadcopter based on Arduino
 #### 2. [Efficient Authentication on RFID](https://ieeexplore.ieee.org/abstract/document/8168531)
@@ -23,10 +23,10 @@
    - Login/Check in Hardware prototype
 #### 3. [Incident Response Team](cynet.com/incident-response/incident-response-team-a-blueprint-for-success/)
    - Responding Cybersecurity Incident
-   - Log system (network, server, end point) analysis
+   - Log system (network, server, end point, etc) analysis
    - Education for lesson learned
 #### 4. [Cyber Excercise](https://www.vic.gov.au/sites/default/files/2019-08/Vic-Gov-Cyber-Exercise-guide.pdf)
-   - Create Red Team and Blue Team Schenario for Cyber Exercise
+   - Create Red Team and Blue Team Scenario for Cyber Exercise
    - Create an artefact (Red Team) for Cyber Exercise
    - Create system monitoring for Cyber Exercise players
    
@@ -36,10 +36,6 @@
 
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCMTHX_NLtyHDU_ZtLdw9-cA#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCMTHX_NLtyHDU_ZtLdw9-cA#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com)
-[![website](./img/instagram-dark.svg)](https://instagram.com)
-
 
 
 [webdev]: https://github.com/TaufikSharePoint/TaufikSharePoint
