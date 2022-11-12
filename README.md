@@ -38,14 +38,12 @@
 [<img align="left" alt="PHP Programming" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="HTML" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Java" width="30px" src="https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blt46ce123aa5cce4cd/5ed7c169b275f97304667bad/logo-integrations-java.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Ubuntu Server" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Elasticsearch" width="30px" src="https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt36f2da8d650732a0/5d0823c3d8ff351753cbc99f/logo-elasticsearch-32-color.svg" style="padding-right:0px;" />][webdev]
 [<img align="left" alt="Kibana" width="30px" src="https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt4466841eed0bf232/5d082a5e97f2babb5af907ee/logo-kibana-32-color.svg" style="padding-right:0px;" />][webdev]
 [<img align="left" alt="Beats" width="30px" src="https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blta3a797dfc3d80de3/5d0c1b1977f34fd55839ab58/logo-beats-32-color.svg" style="padding-right:0px;" />][webdev]
 [<img align="left" alt="Parrot OS" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Parrot_Logo.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />][webdev]
 
 
 <br />
