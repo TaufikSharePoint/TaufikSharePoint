@@ -35,7 +35,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt="C Programming" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="PHP Programming" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="PHP Programming" width="30px" src="[https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg](https://www.php.net/images/logos/new-php-logo.svg)" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="HTML" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
