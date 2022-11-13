@@ -43,7 +43,6 @@
 [<img align="left" alt="Elasticsearch" width="30px" src="https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt36f2da8d650732a0/5d0823c3d8ff351753cbc99f/logo-elasticsearch-32-color.svg" style="padding-right:0px;" />][webdev]
 [<img align="left" alt="Kibana" width="30px" src="https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt4466841eed0bf232/5d082a5e97f2babb5af907ee/logo-kibana-32-color.svg" style="padding-right:0px;" />][webdev]
 [<img align="left" alt="Beats" width="30px" src="https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blta3a797dfc3d80de3/5d0c1b1977f34fd55839ab58/logo-beats-32-color.svg" style="padding-right:0px;" />][webdev]
-[<img align="left" alt="Parrot OS" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Parrot_Logo.png" style="padding-right:10px;" />][webdev]
 
 
 <br />
