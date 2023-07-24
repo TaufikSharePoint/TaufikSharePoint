@@ -13,18 +13,18 @@
    - EC-Council Certified Incident Handler
 
 ## Training :
-#### 1. [CompTIA Security+]
-#### 2. [Digital Forensic Course - AJCCBC] 
-#### 3. [Creating and Managing CSIRT - Carnegie Mellon University]
-#### 4. [Core Banking System and Security]
-#### 5. [SCADA & Security]
+   - [CompTIA Security+]
+   - [Digital Forensic Course - AJCCBC] 
+   - [Creating and Managing CSIRT - Carnegie Mellon University]
+   - [Core Banking System and Security]
+   - [SCADA & Security]
 
 ## Event :
-#### 1. [Incident Response Team on Indonesian Presidential Election - Jakarta 2019]
-#### 2. [Cyber Defence Exercise with Recurrence Course, Asean Japan Cyber Security Capacity Building Center - Bangkok 2019]
-#### 3. [ASEAN-Japan Raemote Cyber Exercise - Jakarta 2020]
-#### 4. [Cyber Exercise Healthcare Sector - Jakarta, Yogyakarta, Malang 2019 - 2023]
-#### 5. [Cyber Exercise Education Sector - Jakarta, Yogyakarta, Malang 2021 - 2023]
+   - [Incident Response Team on Indonesian Presidential Election - Jakarta 2019]
+   - [Cyber Defence Exercise with Recurrence Course, Asean Japan Cyber Security Capacity Building Center - Bangkok 2019]
+   - [ASEAN-Japan Raemote Cyber Exercise - Jakarta 2020]
+   - [Cyber Exercise Healthcare Sector - Jakarta, Yogyakarta, Malang 2019 - 2023]
+   - [Cyber Exercise Education Sector - Jakarta, Yogyakarta, Malang 2021 - 2023]
 
 ## Experience:
 #### 1. [Securing Drone Authentication]
