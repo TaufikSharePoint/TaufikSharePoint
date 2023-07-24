@@ -1,6 +1,6 @@
 # Hi there, I'm Taufik - aka [Taufik Share Point](https://www.youtube.com/channel/UCMTHX_NLtyHDU_ZtLdw9-cA/videos) 👋
 ## About me:
-- 🔭 I’m currently interesting with Programming, Cryptography, Cybersecurity, and Arduino
+- 🔭 I’m currently interesting with Cybersecurity, Programming, Cryptography, and Arduino
 - 🌱 I’m currently learning Cybersecurity
 - 👯 I’m looking to collaborate as Blue Team, Red Team, Purple Team, or Training and Educational Purpose 
 - 🤔 I’m looking for suggest for Cyber Exercise, Training and Educational Purpose
@@ -12,24 +12,47 @@
 #### 1. [ECIH](https://www.eccouncil.org/programs/ec-council-certified-incident-handler-ecih/) 
    - EC-Council Certified Incident Handler
 
+## Training :
+#### 1. [CompTIA Security+]
+#### 2. [Digital Forensic Course - AJCCBC] 
+#### 3. [Creating and Managing CSIRT - Carnegie Mellon University]
+#### 4. [Core Banking System and Security]
+#### 5. [SCADA & Security]
+
+## Event :
+#### 1. [Incident Response Team on Indonesian Presidential Election - Jakarta 2019]
+#### 2. [Cyber Defence Exercise with Recurrence Course, Asean Japan Cyber Security Capacity Building Center - Bangkok 2019]
+#### 3. [ASEAN-Japan Raemote Cyber Exercise - Jakarta 2020]
+#### 4. [Cyber Exercise Healthcare Sector - Jakarta, Yogyakarta, Malang 2019 - 2023]
+#### 5. [Cyber Exercise Education Sector - Jakarta, Yogyakarta, Malang 2021 - 2023]
+
 ## Experience:
-#### 1. [Securing Drone Authentication](https://docplayer.info/113576930-Implementasi-algoritma-present-sebagai-pengamanan-data-autentikasi-rfid-pada-uav-berbasis-arduino.html)
+#### 1. [Securing Drone Authentication]
    - Implentation and Analysis Modified Authentication Protocol for UAV/Drone using Arduino
    - Implentation with Arduino and nRF24l01
    - Quadcopter based on Arduino
-#### 2. [Efficient Authentication on RFID](https://ieeexplore.ieee.org/abstract/document/8168531)
+#### 2. [Efficient Authentication on RFID]
    - Implmenetation Hash Sequence authentication
    - Implementation with Arduino and RFID
    - Login/Check in Hardware prototype
-#### 3. [Incident Response Team](cynet.com/incident-response/incident-response-team-a-blueprint-for-success/)
+#### 3. [Incident Response Team]
    - Responding Cybersecurity Incident
    - Log system (network, server, end point, etc) analysis
    - Education for lesson learned
-#### 4. [Cyber Excercise](https://www.vic.gov.au/sites/default/files/2019-08/Vic-Gov-Cyber-Exercise-guide.pdf)
+#### 4. [Cyber Excercise]
    - Create Red Team and Blue Team Scenario for Cyber Exercise
    - Create an artefact for Cyber Exercise
    - Create system monitoring for Cyber Exercise players
+#### 5. [Cyber Security Training and Workshop]
+   - Incident handling workshop facilitator and speaker
+   - Speakers and facilitators of information security workshops
+#### 6. [Security Awareness]
+   - Introduction to information security
+   - Raise awareness of information security
+   - Challenges and threats in information security
    
+
+
 ---
 
 ### Languages and Tools:
